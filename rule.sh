@@ -110,3 +110,5 @@ main() {
     test
     release
 }
+
+v7_test
