@@ -1,0 +1,7 @@
+{
+    "shellformat.path": "D:\\shfmt\\shfmt.exe",
+    "shellformat.flag": ["-i", "2", "-s", "-ci"],
+    "shellformat.effectLanguages": [
+        "shellscript"
+    ]
+}
