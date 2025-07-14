@@ -227,7 +227,6 @@ rule_rhel810_integrate() {
 # 以下为最后一张图中列出的规则（仅函数声明，无具体逻辑，按图中原样保留）
 rule_rhel810_test
 rule_rhel810_integrate
-
 rule_before_integrate
 rule_tags_permit_scan
 rule_cppcheck_scan
